@@ -1,0 +1,578 @@
+---
+! '/home/woohoo/.rvm/gems/ruby-1.9.3-p125/bin/rspec ':
+  :original_result:
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/environment.rb:
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/application.rb:
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/boot.rb:
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 1
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/environments/local_heber.rb:
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 1
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/initializers/backtrace_silencers.rb:
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/initializers/inflections.rb:
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/initializers/mime_types.rb:
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/initializers/secret_token.rb:
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/initializers/session_store.rb:
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/initializers/wrap_parameters.rb:
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/routes.rb:
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/app/helpers/application_helper.rb:
+    - 1
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/app/helpers/movies_helper.rb:
+    - 1
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/spec/factories/movie.rb:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 19
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/app/controllers/movies_controller.rb:
+    - 1
+    - 
+    - 1
+    - 0
+    - 0
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 0
+    - 
+    - 0
+    - 0
+    - 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 8
+    - 8
+    - 4
+    - 4
+    - 
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/app/controllers/application_controller.rb:
+    - 1
+    - 1
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/app/models/movie.rb:
+    - 1
+    - 1
+    - 0
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+  :created_at: 2012-08-21 20:40:19.142226361 -05:00
+RSpec:
+  :original_result:
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/environment.rb:
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/application.rb:
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/boot.rb:
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 1
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/environments/local_heber.rb:
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 1
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/initializers/backtrace_silencers.rb:
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/initializers/inflections.rb:
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/initializers/mime_types.rb:
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/initializers/secret_token.rb:
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/initializers/session_store.rb:
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/initializers/wrap_parameters.rb:
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/config/routes.rb:
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/app/helpers/application_helper.rb:
+    - 1
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/app/helpers/movies_helper.rb:
+    - 1
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/spec/factories/movie.rb:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    /home/woohoo/workspaces/General/hw4_rottenpotatoes/app/models/movie.rb:
+    - 1
+    - 1
+    - 0
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+  :created_at: 2012-08-21 20:58:56.957342753 -05:00
