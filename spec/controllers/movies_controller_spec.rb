@@ -6,9 +6,9 @@ describe MoviesController do
   describe "Find Similar Movies" do
     before :each do
       @movies_mock = []      
-      @movies_mock << FactoryGirl.build(:movie, id: 1, title: 'Milk', rating: 'R', director: 'George Lucas')
-      @movies_mock << FactoryGirl.build(:movie, id: 2, title: 'Spiderman', rating: 'GR', director: 'Another Director')
-      @movies_mock << FactoryGirl.build(:movie, id: 3, title: 'Milk 2', rating: 'R', director: 'George Lucas')
+      @movies_mock << FactoryGirl.create(:movie, id: 1, title: 'Milk', rating: 'R', director: 'George Lucas')
+      @movies_mock << FactoryGirl.create(:movie, id: 2, title: 'Spiderman', rating: 'GR', director: 'Another Director')
+      @movies_mock << FactoryGirl.create(:movie, id: 3, title: 'Milk 2', rating: 'R', director: 'George Lucas')
       
       @m = @movies_mock.first
     end
