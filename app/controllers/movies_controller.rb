@@ -62,7 +62,7 @@ class MoviesController < ApplicationController
 
   def similar
     @movies = Movie.find_similar_movies(params[:id])
-    
+
     if @movies.empty?
       movie = Movie.find_by_id(params[:id])
       

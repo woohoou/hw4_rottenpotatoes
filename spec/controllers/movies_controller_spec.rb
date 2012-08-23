@@ -25,11 +25,6 @@ describe MoviesController do
     end
     
     context "after call method" do
-      before :each do
-        Movie.stub(:find_similar_movies).with("#{@m.id}")
-        get 'similar', {id: @m.id}
-      end
-      
       context "found movies" do
         before (:each) do
           Movie.stub(:find_similar_movies).with("#{@m.id}").and_return(@movies_mock)
@@ -47,7 +42,8 @@ describe MoviesController do
       
       context "not found movies" do
         before (:each) do
-          Movie.stub(:find_similar_movies).with("#{@m.id}")
+          Movie.stub(:find_similar_movies).with("#{@m.id}").and_return([])
+          get 'similar', {id: @m.id}
         end
         
         it "should make available warning to the view" do
